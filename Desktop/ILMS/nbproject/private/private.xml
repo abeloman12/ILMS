@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/BookManagment.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/ForgetPassword.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/GenerateReport.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Entity/Patron.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Controller/Report.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/Rent.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Controller/Backup.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/AdministratorHomePage.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/AdministratorSetting.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/Transaction.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/LibrarianHomePage.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Entity/Librarian.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/BackupRestore.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Entity/Administrator.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Entity/ILMS.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/GeneralSettingLib.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/LibrarianManagment.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/LibrarianSetting.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Controller/Exceptions.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/Backup-icon.png</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Entity/Book.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/AdvancedSearch.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/PatronManagment.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Entity/Transaction.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Boundary/Login.java</file>
+            <file>file:/C:/Users/Amanuel/Desktop/ILMS_Progect/ILMS_Desktop/ILMS/src/Controller/JDBC.java</file>
+        </group>
+    </open-files>
+</project-private>
